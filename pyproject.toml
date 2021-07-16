@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "django-types-extra"
-version = "0.6.4"
+version = "0.6.5"
 description = "A fork of django-types with a few improvements"
 repository = "https://github.com/sbdchd/django-types"
 readme = "README.md"
